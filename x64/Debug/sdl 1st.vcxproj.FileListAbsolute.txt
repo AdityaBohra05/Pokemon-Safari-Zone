@@ -1,0 +1,9 @@
+E:\cpp\cpp_projects\Dev\sdl 1st\x64\Debug\sdl 1st.exe
+E:\cpp\cpp_projects\Dev\sdl 1st - Copy\x64\Debug\sdl 1st.exe
+E:\cpp\cpp_projects\Dev\sdl 1st - Copy - Copy\x64\Debug\sdl 1st.exe
+E:\cpp\cpp_projects\Dev\pokemon Safari Zone\x64\Debug\sdl 1st.exe
+C:\Users\POGO\Desktop\Pokemon Safari Zone\Pokemon Safari Zone\x64\Debug\sdl 1st.exe
+C:\Users\POGO\Desktop\Pokemon Safari Zone\Pokemon Safari Zone Project\Pokemon Safari Zone\x64\Debug\sdl 1st.exe
+E:\Pokemon Safari Zone\Pokemon Safari Zone Project\Pokemon Safari Zone\x64\Debug\sdl 1st.exe
+E:\Pokemon Safari Zone\Pokemon-Safari-Zone\Pokemon Safari Zone\x64\Debug\sdl 1st.exe
+E:\Pokemon Safari Zone\Project\Pokemon-Safari-Zone\x64\Debug\sdl 1st.exe
